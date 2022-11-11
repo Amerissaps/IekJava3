@@ -36,4 +36,5 @@ public class Mavenproject1 {
         System.out.println("Name: "+name+" Age: "+age+" Gender: "+gender+" Salary: "+salary);
         
     }
+    aaa
 }
